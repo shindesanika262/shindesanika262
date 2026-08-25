@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanika Shinde</h1>
 
-<h3 align="center">🎓 M.Sc. Computer Science Student | 💻 Aspiring Full Stack Developer | 🚀 Java & PHP Developer</h3>
+<h3 align="center">🎓 M.Sc. Computer Science Student | 💻 Aspiring Full Stack Developer | 🚀 Nodejs & C# developer</h3>
 
 ---
 
@@ -93,7 +93,7 @@ A Complete **Mart Management System** developed using **PHP, MySQL, HTML, CSS & 
 
 ## 📫 Connect With Me
 
-📧 Email : your-email@gmail.com
+📧 Email : shindesanika262@gmail.com
 
 💼 LinkedIn : Your LinkedIn Profile
 
