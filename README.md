@@ -85,7 +85,7 @@ A Complete **Mart Management System** developed using **PHP, MySQL, HTML, CSS & 
 
 # 📈 GitHub Stats
 
-![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindesanika262&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
