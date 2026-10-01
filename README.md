@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanika Shinde</h1>
 
-<h3 align="center">🎓 M.Sc. Computer Science Student | 💻 Aspiring Full Stack Developer | 🚀 Nodejs & C# developer</h3>
+<h3 align="center">🎓 M.Sc. Computer Science Student | 💻 Aspiring Full Stack Developer | 🚀 Node.js & C# Developer</h3>
 
 ---
 
@@ -22,33 +22,35 @@
 
 ### 👩‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### ⚙ Backend
+### ⚙️ Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 
-### 🗄 Database
+### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🛠 Tools
+### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse-ide\&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=xampp\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -76,82 +78,30 @@ A Complete **Mart Management System** developed using **PHP, MySQL, HTML, CSS & 
 
 # 📚 Currently Learning
 
-- Full Stack Development
-- Advanced Java
-- Database Management
-- Git & GitHub
+* Full Stack Development
+* Advanced Java
+* Database Management
+* Git & GitHub
+* REST APIs
+* Node.js
 
 ---
 
 # 📈 GitHub Stats
 
-![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindesanika262&show_icons=true&theme=tokyonight)
+![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindesanika262\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_Ugithub.com/shindesanika262/shindesanika262/blob/main/READ ...
-
-...
-
-S
-
--
-
-Files
-
-g9 main
-
-shindesanika262 / README.md
-
-Top
-
-Preview
-
-Code
-
-Blame
-
-Raw
-
-shindesanika262's GitHub Stats
-
-Total Stars Earned:
-
-Total Commits (last year):
-g Total PRs:
-
-Total Issues:
-Contributed to (last year):
-
-0
-
-6
-
-0
-
-0
-
-C
-
-0
-
-Something went wrong! file an issue at https://tiny.one/readme-stats
-Could not resolve to a User with the login of 'shindesanika262
-'.
-Make sure the provided username is not an organization
-
-Connect With Me
-
-Email : shindesanika262@gmail.comSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shindesanika262\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email : shindesanika262@gmail.com
+📧 Email: **[shindesanika262@gmail.com](mailto:shindesanika262@gmail.com)**
 
-💼 LinkedIn : Your LinkedIn Profile
+💼 LinkedIn: **https://linkedin.com/in/sanika-shinde-5350a63a3**
 
-🌐 GitHub : https://github.com/shindesanika262
-
+🌐 GitHub: **https://github.com/shindesanika262**
 
 ---
 
