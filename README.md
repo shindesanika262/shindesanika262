@@ -87,7 +87,60 @@ A Complete **Mart Management System** developed using **PHP, MySQL, HTML, CSS & 
 
 ![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindesanika262&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_Ugithub.com/shindesanika262/shindesanika262/blob/main/READ ...
+
+...
+
+S
+
+-
+
+Files
+
+g9 main
+
+shindesanika262 / README.md
+
+Top
+
+Preview
+
+Code
+
+Blame
+
+Raw
+
+shindesanika262's GitHub Stats
+
+Total Stars Earned:
+
+Total Commits (last year):
+g Total PRs:
+
+Total Issues:
+Contributed to (last year):
+
+0
+
+6
+
+0
+
+0
+
+C
+
+0
+
+Something went wrong! file an issue at https://tiny.one/readme-stats
+Could not resolve to a User with the login of 'shindesanika262
+'.
+Make sure the provided username is not an organization
+
+Connect With Me
+
+Email : shindesanika262@gmail.comSERNAME&layout=compact&theme=tokyonight)
 
 ---
 
@@ -97,7 +150,8 @@ A Complete **Mart Management System** developed using **PHP, MySQL, HTML, CSS & 
 
 💼 LinkedIn : Your LinkedIn Profile
 
-🌐 GitHub : https://github.com/YOUR_USERNAME
+🌐 GitHub : https://github.com/shindesanika262
+
 
 ---
 
