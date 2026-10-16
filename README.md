@@ -97,7 +97,7 @@ A Complete **Mart Management System** developed using **PHP, MySQL, HTML, CSS & 
 
 ## 📫 Connect With Me
 
-📧 Email: **[shindesanika262@gmail.com](mailto:shindesanika262@gmail.com)**
+📧 Email: shindesanika262@gmail.com
 
 💼 LinkedIn: **https://linkedin.com/in/sanika-shinde-5350a63a3**
 
